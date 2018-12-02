@@ -1,1 +1,251 @@
-# country-list
+Asia
+-Abkhazia
+-Afghanistan
+-Armenia
+-Azerbaijan
+-Bahrain
+-Bangladesh
+-Bhutan
+-Brunei Darussalam
+-Burma
+-Cambodia
+-China
+-Christmas Island
+-Cyprus
+-Georgia
+-Hong Kong
+-India
+-Indonesia
+-Iran, Islamic Republic of
+-Iraq
+-Israel
+-Japan
+-Jordan
+-Kazakhstan
+-Korea, Democratic People's republic of
+-Korea, Republic of
+-Kuwait
+-Kyrgyzstan
+-Lao People's Democratic Republic
+-Lebanon
+-Macao
+-Malaysia
+-Maldives
+-Mongolia
+-Nepal
+-Oman
+-Pakistan
+-Palestinian Territory, Occupied
+-Philippines
+-Qatar
+-Saudi Arabia
+-Singapore
+-South Ossetia
+-Sri Lanka
+-Syrian Arab Republic
+-Taiwan, Province of China
+-Tajikistan
+-Thailand
+-Timor-Leste
+-Turkey
+-Turkmenistan
+-United Arab Emirates
+-Uzbekistan
+-Vietnam
+-Yemen
+America
+-Anguilla
+-Antigua and Barbuda
+-Argentina
+-Aruba
+-Bahamas
+-Barbados
+-Belize
+-Bermuda
+-Bolivia, plurinational state of
+-Bonaire, Sint Eustatius and Saba
+-Brazil
+-Canada
+-Cayman Islands
+-Chile
+-Colombia
+-Costa Rica
+-Cuba
+-Curaçao
+-Dominica
+-Dominican Republic
+-Ecuador
+-El Salvador
+-Falkland Islands (Malvinas)
+-French Guiana
+-Greenland
+-Grenada
+-Guadeloupe
+-Guatemala
+-Guyana
+-Haiti
+-Honduras
+-Jamaica
+-Martinique
+-Mexico
+-Montserrat
+-Nicaragua
+-Panama
+-Paraguay
+-Peru
+-Puerto Rico
+-Saint Barthélemy
+-Saint Kitts and Nevis
+-Saint Lucia
+-Saint Martin (French Part)
+-Saint Pierre and Miquelon
+-Saint Vincent and the Grenadines
+-Sint Maarten
+-Suriname
+-Trinidad and Tobago
+-Turks and Caicos Islands
+-United States
+-Uruguay
+-Venezuela
+-Virgin Islands, British
+-Virgin Islands, U.S.
+Africa
+-Algeria
+-Angola
+-Benin
+-Botswana
+-Burkina Faso
+-Burundi
+-Cameroon
+-Cape Verde
+-Central African Republic
+-Chad
+-Comoros
+-Congo
+-Congo, Democratic Republic of the
+-Cote d'Ivoire
+-Djibouti
+-Egypt
+-Equatorial Guinea
+-Eritrea
+-Ethiopia
+-Gabon
+-Gambia
+-Ghana
+-Guinea
+-Guinea-Bissau
+-Kenya
+-Lesotho
+-Liberia
+-Libyan Arab Jamahiriya
+-Madagascar
+-Malawi
+-Mali
+-Mauritania
+-Mauritius
+-Mayotte
+-Morocco
+-Mozambique
+-Namibia
+-Niger
+-Nigeria
+-Reunion
+-Rwanda
+-Saint Helena, Ascension And Tristan Da Cunha
+-Sao Tome and Principe
+-Senegal
+-Seychelles
+-Sierra Leone
+-Somalia
+-South Africa
+-South Sudan
+-Sudan
+-Swaziland
+-Tanzania, United Republic Of
+-Togo
+-Tunisia
+-Uganda
+-Western Sahara
+-Zambia
+-Zimbabwe
+Europe
+-Albania
+-Andorra
+-Austria
+-Belarus
+-Belgium
+-Bosnia and Herzegovina
+-Bulgaria
+-Croatia
+-Czech Republic
+-Denmark
+-Estonia
+-Faroe Islands
+-Finland
+-France
+-Germany
+-Gibraltar
+-Greece
+-Guernsey
+-Holy See (Vatican City State)
+-Hungary
+-Iceland
+-Ireland
+-Isle of Man
+-Italy
+-Jersey
+-Latvia
+-Liechtenstein
+-Lithuania
+-Luxembourg
+-Macedonia, The Former Yugoslav Republic Of
+-Malta
+-Moldova
+-Monaco
+-Montenegro
+-Netherlands
+-Norway
+-Poland
+-Portugal
+-Romania
+-Russian Federation
+-San Marino
+-Serbia
+-Slovakia
+-Slovenia
+-Spain
+-Svalbard and Jan Mayen
+-Sweden
+-Switzerland
+-Ukraine
+-United Kingdom
+-Åland Islands
+Oceania
+-American Samoa
+-Australia
+-British Indian Ocean Territory
+-Cocos (Keeling) Islands
+-Cook Islands
+-Fiji
+-French Polynesia
+-Guam
+-Kiribati
+-Marshall Islands
+-Micronesia, Federated States of
+-Nauru
+-New Caledonia
+-New Zealand
+-Niue
+-Norfolk Island
+-Northern Mariana Islands
+-Palau
+-Papua New Guinea
+-Pitcairn
+-Samoa
+-Solomon Islands
+-Tokelau
+-Tonga
+-Tuvalu
+-United States Minor Outlying Islands
+-Vanuatu
+-Wallis and Futuna
